@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://preview.redd.it/5km5uycgekac1.gif?width=1200&format=mp4&s=12bce94bb42f5fed8c2c6a4f5aaa9afb25f4695e" alt="Header GIF" width="100%">
+  <img src="/homeGIF.gif" alt="Header GIF" width="100%">
 </p>
 
 # ¡Hola! Soy Yago 🚀
