@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="/homeGIF.gif" alt="Header GIF" width="100%">
+  <img src="/homeGIF.gif" alt="Header GIF" width="75%">
 </p>
 
 # ¡Hola! Soy Yago 🚀
