@@ -48,5 +48,5 @@ Especializado en el desarrollo de aplicaciones nativas y multiplataforma, con un
 ---
 
 ### 📫 Contacto
-- **LinkedIn:** [Tu link aquí]
-- **Email:** [Tu email]
+- **LinkedIn:** https://www.linkedin.com/in/yago-duran-6216153b5/
+- **Email:** yagoduran.tolosaldea@gmail.com
