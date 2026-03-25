@@ -4,7 +4,7 @@
 
 # ¡Hola! Soy Yago 🚀
 
-### 👨‍💻 Multiplatform Developer | 🌐 Systems & Networks Enthusiast
+### 👨‍💻 Multiplatform Developer | 🌐 Systems & Networks Enthusiast | 🌪️ Vento Agency Founder
 Especializado en el desarrollo de aplicaciones nativas y multiplataforma, con un fuerte enfoque en la arquitectura limpia y el rendimiento.
 
 - 🎓 Formación: **Desarrollo de Aplicaciones Multiplataforma (DAM)**
