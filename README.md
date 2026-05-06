@@ -2,7 +2,9 @@
 
   <img src="/homeGIF.gif" alt="Header GIF" width="75%">
 
-  <h1>Hola, soy Yago Duran</h1>
+  <p>
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=32&duration=2800&pause=1200&color=00AEEF&center=true&vCenter=true&repeat=true&width=720&height=60&lines=Hola%2C+soy+Yago+Duran" alt="Hola, soy Yago Duran">
+  </p>
 
   <h3>Desarrollador multiplataforma en formación</h3>
 
@@ -90,46 +92,46 @@
   <tr>
     <td align="center" width="50%">
       <h3>Lenguajes</h3>
-      <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
-      <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin">
-      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-      <img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="C#">
+      <img src="https://img.shields.io/badge/Java-00AEEF?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
+      <img src="https://img.shields.io/badge/Kotlin-00AEEF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin">
+      <img src="https://img.shields.io/badge/Python-00AEEF?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+      <img src="https://img.shields.io/badge/C%23-00AEEF?style=for-the-badge&logo=dotnet&logoColor=white" alt="C#">
       <img src="https://img.shields.io/badge/SQL-00AEEF?style=for-the-badge&logo=databricks&logoColor=white" alt="SQL">
-      <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" alt="Lua">
+      <img src="https://img.shields.io/badge/Lua-00AEEF?style=for-the-badge&logo=lua&logoColor=white" alt="Lua">
     </td>
     <td align="center" width="50%">
       <h3>Mobile / Multiplataforma</h3>
-      <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android">
-      <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter">
-      <img src="https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native">
-      <img src="https://img.shields.io/badge/.NET%20MAUI-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET MAUI">
+      <img src="https://img.shields.io/badge/Android-00AEEF?style=for-the-badge&logo=android&logoColor=white" alt="Android">
+      <img src="https://img.shields.io/badge/Flutter-00AEEF?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter">
+      <img src="https://img.shields.io/badge/React%20Native-00AEEF?style=for-the-badge&logo=react&logoColor=white" alt="React Native">
+      <img src="https://img.shields.io/badge/.NET%20MAUI-00AEEF?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET MAUI">
     </td>
   </tr>
   <tr>
     <td align="center" width="50%">
       <h3>Web / Backend</h3>
-      <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
-      <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
-      <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js">
+      <img src="https://img.shields.io/badge/HTML5-00AEEF?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
+      <img src="https://img.shields.io/badge/CSS3-00AEEF?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
+      <img src="https://img.shields.io/badge/Node.js-00AEEF?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js">
       <img src="https://img.shields.io/badge/APIs-00AEEF?style=for-the-badge&logo=fastapi&logoColor=white" alt="APIs">
-      <img src="https://img.shields.io/badge/REST-1E90FF?style=for-the-badge&logo=postman&logoColor=white" alt="REST">
+      <img src="https://img.shields.io/badge/REST-00AEEF?style=for-the-badge&logo=postman&logoColor=white" alt="REST">
     </td>
     <td align="center" width="50%">
       <h3>Bases de datos</h3>
-      <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
-      <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle">
+      <img src="https://img.shields.io/badge/MySQL-00AEEF?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
+      <img src="https://img.shields.io/badge/Oracle-00AEEF?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle">
     </td>
   </tr>
   <tr>
     <td align="center" colspan="2">
       <h3>Herramientas</h3>
-      <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-      <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code">
-      <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white" alt="Visual Studio">
-      <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white" alt="Android Studio">
-      <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white" alt="Eclipse">
-      <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" alt="Cursor">
+      <img src="https://img.shields.io/badge/Git-00AEEF?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+      <img src="https://img.shields.io/badge/GitHub-00AEEF?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+      <img src="https://img.shields.io/badge/VS%20Code-00AEEF?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code">
+      <img src="https://img.shields.io/badge/Visual%20Studio-00AEEF?style=for-the-badge&logo=visualstudio&logoColor=white" alt="Visual Studio">
+      <img src="https://img.shields.io/badge/Android%20Studio-00AEEF?style=for-the-badge&logo=androidstudio&logoColor=white" alt="Android Studio">
+      <img src="https://img.shields.io/badge/Eclipse-00AEEF?style=for-the-badge&logo=eclipseide&logoColor=white" alt="Eclipse">
+      <img src="https://img.shields.io/badge/Cursor-00AEEF?style=for-the-badge&logo=cursor&logoColor=white" alt="Cursor">
     </td>
   </tr>
 </table>
