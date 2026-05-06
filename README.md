@@ -174,12 +174,12 @@
 <h2>Estadísticas de GitHub</h2>
 
 <p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=yagoduran&show_icons=true&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=00AEEF&text_color=C9D1D9&icon_color=00AEEF" alt="GitHub Stats">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yagoduran&layout=compact&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=00AEEF&text_color=C9D1D9" alt="Top Languages">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=yagoduran&theme=github_dark" alt="GitHub Stats">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yagoduran&theme=github_dark" alt="Top Languages">
 </p>
 
 <p>
-  <img src="https://streak-stats.demolab.com?user=yagoduran&theme=tokyonight&hide_border=true&background=0D1117&ring=00AEEF&fire=1E90FF&currStreakLabel=C9D1D9&sideLabels=00AEEF&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="GitHub Streak">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yagoduran&theme=github_dark" alt="GitHub Profile Details">
 </p>
 
 </div>
