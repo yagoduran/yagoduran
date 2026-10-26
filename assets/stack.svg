@@ -1,0 +1,66 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="350" viewBox="0 0 900 350" role="img" aria-label="// STACK">
+  <defs>
+    <linearGradient id="neon" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#00f0ff"/><stop offset="1" stop-color="#ff2bd6"/></linearGradient>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#0b0b1f"/><stop offset="1" stop-color="#05050d"/></linearGradient>
+    <pattern id="grid" width="30" height="30" patternUnits="userSpaceOnUse"><path d="M30 0H0V30" fill="none" stroke="#7c3aed" stroke-opacity=".18"/></pattern>
+    <filter id="glow" x="-20%" y="-50%" width="140%" height="200%"><feGaussianBlur stdDeviation="4" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+  </defs>
+  <rect width="900" height="350" rx="14" fill="url(#bg)"/>
+  <rect width="900" height="350" rx="14" fill="url(#grid)"/>
+  <rect x="1" y="1" width="898" height="348" rx="14" fill="none" stroke="url(#neon)" stroke-width="2"/>
+  <text x="32" y="46" font-family="'JetBrains Mono','Fira Code',Consolas,monospace" font-size="22" font-weight="800" fill="url(#neon)" filter="url(#glow)">// STACK</text>
+  <rect x="32" y="58" width="60" height="3" rx="1.5" fill="#ff2bd6"><animate attributeName="width" values="60;220;60" dur="4s" repeatCount="indefinite"/></rect>
+  <text x="32" y="110" font-family="'JetBrains Mono','Fira Code',Consolas,monospace" font-size="14" font-weight="600" fill="#8b8bb3" >Lenguajes</text>
+  <rect x="200" y="90" width="62" height="30" rx="15" fill="#12122e" stroke="#00f0ff" stroke-width="1.5"/>
+  <text x="213" y="110" font-family="'JetBrains Mono','Fira Code',Consolas,monospace" font-size="15" font-weight="600" fill="#00f0ff" >Java</text>
+  <rect x="272" y="90" width="80" height="30" rx="15" fill="#12122e" stroke="#ff2bd6" stroke-width="1.5"/>
+  <text x="285" y="110" font-family="'JetBrains Mono','Fira Code',Consolas,monospace" font-size="15" font-weight="600" fill="#ff2bd6" >Kotlin</text>
+  <rect x="362" y="90" width="80" height="30" rx="15" fill="#12122e" stroke="#00f0ff" stroke-width="1.5"/>
+  <text x="375" y="110" font-family="'JetBrains Mono','Fira Code',Consolas,monospace" font-size="15" font-weight="600" fill="#00f0ff" >Python</text>
+  <rect x="452" y="90" width="44" height="30" rx="15" fill="#12122e" stroke="#ff2bd6" stroke-width="1.5"/>
+  <text x="465" y="110" font-family="'JetBrains Mono','Fira Code',Consolas,monospace" font-size="15" font-weight="600" fill="#ff2bd6" >C#</text>
+  <rect x="506" y="90" width="53" height="30" rx="15" fill="#12122e" stroke="#00f0ff" stroke-width="1.5"/>
+  <text x="519" y="110" font-family="'JetBrains Mono','Fira Code',Consolas,monospace" font-size="15" font-weight="600" fill="#00f0ff" >SQL</text>
+  <rect x="569" y="90" width="53" height="30" rx="15" fill="#12122e" stroke="#ff2bd6" stroke-width="1.5"/>
+  <text x="582" y="110" font-family="'JetBrains Mono','Fira Code',Consolas,monospace" font-size="15" font-weight="600" fill="#ff2bd6" >Lua</text>
+  <text x="32" y="160" font-family="'JetBrains Mono','Fira Code',Consolas,monospace" font-size="14" font-weight="600" fill="#8b8bb3" >Móvil</text>
+  <rect x="200" y="140" width="89" height="30" rx="15" fill="#12122e" stroke="#ff2bd6" stroke-width="1.5"/>
+  <text x="213" y="160" font-family="'JetBrains Mono','Fira Code',Consolas,monospace" font-size="15" font-weight="600" fill="#ff2bd6" >Android</text>
+  <rect x="299" y="140" width="89" height="30" rx="15" fill="#12122e" stroke="#00f0ff" stroke-width="1.5"/>
+  <text x="312" y="160" font-family="'JetBrains Mono','Fira Code',Consolas,monospace" font-size="15" font-weight="600" fill="#00f0ff" >Flutter</text>
+  <rect x="398" y="140" width="134" height="30" rx="15" fill="#12122e" stroke="#ff2bd6" stroke-width="1.5"/>
+  <text x="411" y="160" font-family="'JetBrains Mono','Fira Code',Consolas,monospace" font-size="15" font-weight="600" fill="#ff2bd6" >React Native</text>
+  <rect x="542" y="140" width="107" height="30" rx="15" fill="#12122e" stroke="#00f0ff" stroke-width="1.5"/>
+  <text x="555" y="160" font-family="'JetBrains Mono','Fira Code',Consolas,monospace" font-size="15" font-weight="600" fill="#00f0ff" >.NET MAUI</text>
+  <text x="32" y="210" font-family="'JetBrains Mono','Fira Code',Consolas,monospace" font-size="14" font-weight="600" fill="#8b8bb3" >Web y backend</text>
+  <rect x="200" y="190" width="71" height="30" rx="15" fill="#12122e" stroke="#00f0ff" stroke-width="1.5"/>
+  <text x="213" y="210" font-family="'JetBrains Mono','Fira Code',Consolas,monospace" font-size="15" font-weight="600" fill="#00f0ff" >HTML5</text>
+  <rect x="281" y="190" width="62" height="30" rx="15" fill="#12122e" stroke="#ff2bd6" stroke-width="1.5"/>
+  <text x="294" y="210" font-family="'JetBrains Mono','Fira Code',Consolas,monospace" font-size="15" font-weight="600" fill="#ff2bd6" >CSS3</text>
+  <rect x="353" y="190" width="89" height="30" rx="15" fill="#12122e" stroke="#00f0ff" stroke-width="1.5"/>
+  <text x="366" y="210" font-family="'JetBrains Mono','Fira Code',Consolas,monospace" font-size="15" font-weight="600" fill="#00f0ff" >Node.js</text>
+  <rect x="452" y="190" width="98" height="30" rx="15" fill="#12122e" stroke="#ff2bd6" stroke-width="1.5"/>
+  <text x="465" y="210" font-family="'JetBrains Mono','Fira Code',Consolas,monospace" font-size="15" font-weight="600" fill="#ff2bd6" >Supabase</text>
+  <rect x="560" y="190" width="62" height="30" rx="15" fill="#12122e" stroke="#00f0ff" stroke-width="1.5"/>
+  <text x="573" y="210" font-family="'JetBrains Mono','Fira Code',Consolas,monospace" font-size="15" font-weight="600" fill="#00f0ff" >REST</text>
+  <text x="32" y="260" font-family="'JetBrains Mono','Fira Code',Consolas,monospace" font-size="14" font-weight="600" fill="#8b8bb3" >Bases de datos</text>
+  <rect x="200" y="240" width="71" height="30" rx="15" fill="#12122e" stroke="#ff2bd6" stroke-width="1.5"/>
+  <text x="213" y="260" font-family="'JetBrains Mono','Fira Code',Consolas,monospace" font-size="15" font-weight="600" fill="#ff2bd6" >MySQL</text>
+  <rect x="281" y="240" width="80" height="30" rx="15" fill="#12122e" stroke="#00f0ff" stroke-width="1.5"/>
+  <text x="294" y="260" font-family="'JetBrains Mono','Fira Code',Consolas,monospace" font-size="15" font-weight="600" fill="#00f0ff" >Oracle</text>
+  <rect x="371" y="240" width="116" height="30" rx="15" fill="#12122e" stroke="#ff2bd6" stroke-width="1.5"/>
+  <text x="384" y="260" font-family="'JetBrains Mono','Fira Code',Consolas,monospace" font-size="15" font-weight="600" fill="#ff2bd6" >PostgreSQL</text>
+  <text x="32" y="310" font-family="'JetBrains Mono','Fira Code',Consolas,monospace" font-size="14" font-weight="600" fill="#8b8bb3" >Herramientas</text>
+  <rect x="200" y="290" width="53" height="30" rx="15" fill="#12122e" stroke="#00f0ff" stroke-width="1.5"/>
+  <text x="213" y="310" font-family="'JetBrains Mono','Fira Code',Consolas,monospace" font-size="15" font-weight="600" fill="#00f0ff" >Git</text>
+  <rect x="263" y="290" width="80" height="30" rx="15" fill="#12122e" stroke="#ff2bd6" stroke-width="1.5"/>
+  <text x="276" y="310" font-family="'JetBrains Mono','Fira Code',Consolas,monospace" font-size="15" font-weight="600" fill="#ff2bd6" >GitHub</text>
+  <rect x="353" y="290" width="89" height="30" rx="15" fill="#12122e" stroke="#00f0ff" stroke-width="1.5"/>
+  <text x="366" y="310" font-family="'JetBrains Mono','Fira Code',Consolas,monospace" font-size="15" font-weight="600" fill="#00f0ff" >VS Code</text>
+  <rect x="452" y="290" width="152" height="30" rx="15" fill="#12122e" stroke="#ff2bd6" stroke-width="1.5"/>
+  <text x="465" y="310" font-family="'JetBrains Mono','Fira Code',Consolas,monospace" font-size="15" font-weight="600" fill="#ff2bd6" >Android Studio</text>
+  <rect x="614" y="290" width="143" height="30" rx="15" fill="#12122e" stroke="#00f0ff" stroke-width="1.5"/>
+  <text x="627" y="310" font-family="'JetBrains Mono','Fira Code',Consolas,monospace" font-size="15" font-weight="600" fill="#00f0ff" >Visual Studio</text>
+  <rect x="767" y="290" width="89" height="30" rx="15" fill="#12122e" stroke="#ff2bd6" stroke-width="1.5"/>
+  <text x="780" y="310" font-family="'JetBrains Mono','Fira Code',Consolas,monospace" font-size="15" font-weight="600" fill="#ff2bd6" >Eclipse</text>
+</svg>
